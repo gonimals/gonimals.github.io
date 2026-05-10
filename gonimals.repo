@@ -1,0 +1,6 @@
+[Gonimals]
+name=Gonimals Repository
+baseurl=https://gonimals.github.io/rpm/$basearch
+enabled=1
+gpgcheck=1
+gpgkey=https://gonimals.github.io/RPM-GPG-KEY-gonimals
